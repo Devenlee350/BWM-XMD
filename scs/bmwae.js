@@ -15293,7 +15293,7 @@ adams({
       'image': {
         'url': _0x93b128
       },
-      'caption': "*®ADAMS 2024*"
+      'caption': "*®STRIKERBOY-WORLD & ADAMS 2024*"
     }, {
       'quoted': _0x4eb9fe
     });
